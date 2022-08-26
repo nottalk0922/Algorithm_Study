@@ -25,7 +25,7 @@ int main(){
 		if(a == 0) cout << mem0[0] << " " << mem1[0] << "\n";
 		else if(a == 1) cout << mem0[1] << " " << mem1[1] << "\n";
 		else {
-			cout << fibo0(a) " " << fibo1(a) << "\n";
+			cout << fibo0(a) << " " << fibo1(a) << "\n";
 		}	
 	}
 	return 0;
